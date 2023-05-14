@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @KingsGlaive76
+- 👋 Hi, I’m Justin Steenkamp
 - 👀 I’m interested in ... IT
-- 🌱 I’m currently learning ... IT
-- 💞️ I’m looking to collaborate on ...MS teams
+- I enjoy coding and always try to improve my skills as a developer
 - 📫 How to reach me ...any way possible
-- 
+- Email: jstnsteenkamp@gmail.com
+- Cell number: 0682126279
 
 <!---
 KingsGlaive76/KingsGlaive76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
